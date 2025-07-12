@@ -6,7 +6,7 @@ This is my capstone project for the **Google Data Analytics Professional Certifi
 ---
 
 ## Business Task
-> Identify which movie genres will receive the most positive reviews, to guide the online streaming platforms and the director’s data-driven decision on what genre of exclusive movies to pursue.
+Identify which movie genres will receive the most positive reviews, to guide the online streaming platforms and the director’s data-driven decision on what genre of exclusive movies to pursue.
 
 ---
 
