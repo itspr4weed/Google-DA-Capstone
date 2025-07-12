@@ -17,7 +17,7 @@ Identify which movie genres will receive the most positive reviews, to guide the
 
 ---
 
-## Tools
+## Tools Used
 - **Microsoft Excel** – Cleaning, pivot tables, visualization
 - **Microsoft Word** - Documentation
 - **Microsoft PowerPoint** – Final presentation  
@@ -29,7 +29,8 @@ Identify which movie genres will receive the most positive reviews, to guide the
 - **Animation** and **Biography** genres had the highest average ratings  
 - **Action** was the most frequent genre  
 - **Horror** had the lowest average ratings  
-- *“12th Fail”* was the highest-rated movie (8.7)  
+- *“12th Fail”* was the highest-rated movie (IMDb 8.7)
+- *"Justice League"* was the lowest-rated movie (IMDb 6.0)
 - Ratings dropped during **2020–2022** (COVID impact)
 
 ---
